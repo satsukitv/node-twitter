@@ -19,7 +19,7 @@
   },
   "dependencies": {
     "deep-extend": "^0.3.2",
-    "request": "^2.51.0"
+    "request": "request/request#defc3b6b56815aa8475a8bea7bf391a0f6ad2d69"
   },
   "devDependencies": {
     "jshint": "^2.6.0",
